@@ -1,5 +1,8 @@
 # Working GPT-2 with Custom Training Data
 
+**<span style="color:red">WARNING: This has just released and is constantly being updated. To get more stable versions of this, go over to the `Releases` tab.</span>**
+
+
 ### Before using:
 
 + Before using this, make sure you have [Python](https://www.python.org/downloads/) installed on your computer.
