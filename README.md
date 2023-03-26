@@ -13,7 +13,13 @@
 Open the Command Prompt and paste the following in it.
 
 ```
-pip install transformers pandas numpy
+pip install transformers
+```
+```
+pip install pandas numpy
+```
+```
+pip install torch
 ```
 
 Now, you are technically ready to run the code. What you need to do now is unzip the zip file and create a `results` folder. Lastly, enter whatever information you want your GPT-2 model to know about in the `data.txt` file.
